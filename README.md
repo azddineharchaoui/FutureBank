@@ -24,7 +24,7 @@ FutureBank, une banque visionnaire, souhaite révolutionner l'expérience bancai
 ## Instructions pour le Déploiement
 1. **Cloner le Repository** :
     ```bash
-    git clone https://github.com/Azzedine-zemmari/briefBank
+    git clone https://github.com/azddineharchaoui/FutureBank.git
     ```
 2. **Accéder au Dossier du Projet** :
     ```bash
